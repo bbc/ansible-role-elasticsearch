@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - geerlingguy.java
+  - er-ansible-role-install-linux-java
 
 galaxy_info:
   author: geerlingguy
